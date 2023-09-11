@@ -1,0 +1,5 @@
+Express is used for request handling. uses APIs.
+
+nodemon watch our files and reloads each time we update anything and save it.
+
+body-parser is used for middlewares.
